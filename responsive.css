@@ -1,0 +1,120 @@
+@media all  and (max-width:1520px){
+   .fixed-width {
+      width: 100%;
+      max-width: 100%;
+      box-sizing: border-box;
+      padding: 1rem 2.5rem;
+   }
+
+}
+@media all  and (max-width:1183px){
+ /*   .header-right ul li {
+      border: none;
+   } */
+   .header-right {
+      width: 100%;
+      text-align: center;
+   }
+   .header-right ul {
+      text-align: center;
+   }
+   .header-left {
+      width: 100%;
+
+      text-align: center;
+   }
+   .header-right ul li {
+      padding: 2.1rem 4rem;
+      border: none;
+   }
+   .notice-section-right {
+      width: 100%;
+      text-align: center;
+   }
+   .img-section-left {
+      width: 100%;
+      text-align: center;
+   }
+   .about-section {
+      padding: 3rem 0;
+   }
+   .service-section {
+      padding: 4rem 2rem;
+   }
+   .service-item {
+      padding: 2.4rem;
+   }
+}
+@media all  and (max-width:835px){
+   .header-right ul li {
+      padding: 2.1rem 3rem;
+ 
+   }
+   .service-item {
+      width: 100%;
+      margin-bottom: 1rem;
+   }
+   .service-section {
+      padding: 4rem 4rem;
+   }
+   .slider-section {
+      padding: 150px 0;
+      color: rgb(77, 228, 18);
+   }
+   .header-right ul li a {
+      color: #493030;
+   }
+}
+@media all  and (max-width:627px){
+   .footer-left {
+      width: 100%;
+      text-align: center;
+      margin-bottom: 1.8rem;
+   }
+   .footer-social-right {
+      width: 100%;
+      text-align: center;
+   }
+   .slider-section {
+      padding: 120px 0;
+      background: honeydew;
+      color: rgb(70, 94, 104);
+     
+   }
+   .header-right ul li a {
+      color: #11ed67;
+   }
+}
+@media all  and (max-width:285px){
+   .header-right ul li {
+      padding: 2.1rem 2rem;
+   }
+   .slider-section {
+      background: #b61e1e;
+   }
+   .slider-section h6 {
+      font-size: 1.9rem;
+   }
+   .slider-section h2 {
+      font-size: 2.5rem;;
+   }
+   .notice-section-right h3 {
+      font-size: 3rem;
+   }
+   .notice-section-right h4 {
+      font-size: 1.6rem;
+   }
+   .notice-section-right p {
+      font-size: 1rem;
+   }
+   .service-item h3 {
+      font-size: 2rem;
+
+   }
+   .service-item p {
+      font-size: 1.2rem;
+   }
+   .header-right ul li a {
+      color: #3f0ad0;
+   }
+}
